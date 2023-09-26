@@ -1,0 +1,13 @@
+torch
+scikit-learn
+transformers
+sentencepiece
+pandas
+streamlit==1.8.0
+streamlit-lottie
+numpy
+nltk
+protobuf == 3.20.1
+tensorflow
+Pillow
+vega==1.3
