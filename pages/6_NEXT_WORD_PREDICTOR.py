@@ -50,11 +50,11 @@ if st.button("PREDICT"):
 
 
     model = Sequential()
-<<<<<<< HEAD
+
     model.add(Embedding(num_class+1,100,input_length = None))
-=======
+
     model.add(Embedding(num_class+1,100,input_length = None ))
->>>>>>> 803bd9541e4f05a82d1a330000610df21f2c5ced
+
 
     model.add(LSTM(250))
     
