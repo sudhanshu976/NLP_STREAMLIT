@@ -53,8 +53,6 @@ if st.button("PREDICT"):
 
     model.add(Embedding(num_class+1,100,input_length = None))
 
-    model.add(Embedding(num_class+1,100,input_length = None ))
-
 
     model.add(LSTM(250))
     
