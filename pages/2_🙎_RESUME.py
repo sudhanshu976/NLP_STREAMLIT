@@ -24,7 +24,7 @@ Aspiring Data Scientist | 18-Year-Old Data Enthusiast | 1 Year of Hands-On Exper
 EMAIL = "gusainsudhanshu43@gmail.com"
 SOCIAL_MEDIA = {
     "Website": "https://nlpappbysudhanshu.streamlit.app/SMS-SPAM-CLASSIFIER",
-    "LinkedIn": "https://www.linkedin.com/in/sudhanshu-gusain-34271028a/",
+    "LinkedIn": "https://www.linkedin.com/in/sudhanshu-gusain976/",
     "GitHub": "https://github.com/sudhanshu976",
     "HUGGING-FACE": "https://huggingface.co/spaces/Sudhanshu976/NLP_FULL_APP",
 }
